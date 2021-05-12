@@ -1,2 +1,2 @@
-# katrina-liu.github.io
+# Katrina Liu
 Katrina Liu's Personal Page
