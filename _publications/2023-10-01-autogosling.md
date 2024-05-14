@@ -5,7 +5,7 @@ permalink: /publication/wang2023
 excerpt: ''
 date: 2023-10-01
 venue: 'IEEE Visualization and Visual Analytics (VIS)'
-paperurl: 'http://dx.doi.org/10.1109/VIS54172'
+paperurl: 'https://doi.ieeecomputersociety.org/10.1109/VIS54172.2023.00031'
 citation: 'Qianwen Wang∗, <b>Xiao Liu∗</b>, Man Qing Liang∗, Sehi L’Yi, and Nils Gehlenborg (Oct. 2023). “Enabling Multimodal User Interactions for Genomics Visualization Creation”. <i>2023 IEEE Visualization and Visual Analytics (VIS).</i> IEEE. doi: 10.1109/vis54172.2023.00031.'
 ---
 
