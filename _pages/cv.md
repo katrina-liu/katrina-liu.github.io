@@ -11,28 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Biology & Medicine, Tri-institutional Ph.D. Programs, 2024 - 2029 (expected)
+* Ph.D. in Computational Biology & Medicine, Tri-institutional Ph.D. Programs, 2024 - 2029 (expected)
   * Joint by Weil Cornell Medical School, Memorial Sloan Kettering Cancer Center, and Rockefeller University.
 * M.S. in Biomedical Informatics, Harvard Medical School, 2022 - 2024
 * B.S. in Computer Science, Carnegie Mellon University, 2018 - 2022
   * With University Honors. Minor: Mathematical Sciences, SCS concentration in Computational Biology  
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jan. 2023 - Jun. 2024: Graduate Research Assistant
+  * Harvard Medical School and Brigham and Women's Hospital
+  * Duties includes: 
+  * Supervisor: Dr. Martha Bulyk
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2023 - Aug. 2023: Research Data Analyst
+  * The Jackson Laboratory
+  * Duties included: 
+  * Supervisor: Dr. Yi Li
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep. 2022 - May 2023: Graduate Research Assistant
+  * Harvard Medical School
+  * Duties included: 
+  * Supervisor: Dr. Nils Gehlenborg
+
+* Feb. 2021 - Dec. 2022: Undergraduate Research Assistant
+  * Carnegie Mellon University
+  * Duties included: 
+  * Supervisor: Dr. Hosein Mohimani
   
 Skills
 ======
