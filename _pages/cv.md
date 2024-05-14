@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Biology & Medicine, Tri-institutional Programs joint by Weil Cornell Medical School, Memorial Sloan Kettering Cancer Center, and Rockefeller, 2029 (expected)
+* Ph.D in Computational Biology & Medicine, Tri-institutional Ph.D. Programs, 2029 (expected)
+  * Joint by Weil Cornell Medical School, Memorial Sloan Kettering Cancer Center, and Rockefeller University.
 * M.S. in Biomedical Informatics, Harvard Medical School, 2024
 * B.S. in Computer Science, Carnegie Mellon University, 2022
+  * With University Honors. Minor: Mathematical Sciences, SCS concentration in Computational Biology  
 
 Work experience
 ======
