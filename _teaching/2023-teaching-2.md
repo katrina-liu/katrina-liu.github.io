@@ -1,5 +1,5 @@
 ---
-title: "BMI715 omputational Statistics for Biomedical Sciences"
+title: "BMI715 Computational Statistics for Biomedical Sciences"
 collection: teaching
 type: "Graduate"
 permalink: /teaching/bmi715
