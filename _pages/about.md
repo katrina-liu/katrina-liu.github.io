@@ -11,4 +11,4 @@ I am an incoming student of the [Tri-Institutional Ph.D. program in Computationa
 
 More info
 ------
-This website is built upon the [Academic Pages template](https://academicpages.github.io/).
+This website is built with [Academic Pages template](https://academicpages.github.io/).
