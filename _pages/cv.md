@@ -20,7 +20,7 @@ Education
 Experience
 ======
 * Jan. 2023 - Jun. 2024: Graduate Research Assistant
-  * Harvard Medical School and Brigham and Women's Hospital
+  * Brigham and Women's Hospital and Harvard Medical School
   * Duties includes: 
   * Supervisor: Dr. Martha Bulyk
 
