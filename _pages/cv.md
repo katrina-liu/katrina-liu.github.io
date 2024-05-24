@@ -15,23 +15,23 @@ Education
   * <small>Joint by Weil Cornell Medical School, Memorial Sloan Kettering Cancer Center, and the Rockefeller University.</small>
 * S.M. in Biomedical Informatics, Harvard Medical School, 2022 - 2024
 * B.S. in Computer Science, Carnegie Mellon University, 2018 - 2022
-  * With University Honors. Minor: Mathematical Sciences, SCS concentration in Computational Biology  
+  * <small>With University Honors. Minor: Mathematical Sciences, SCS concentration in Computational Biology </small>  
 
 Experience
 ======
-* Jan. 2023 - Jun. 2024: Brigham and Women's Hospital and Harvard Medical School
+* [Bulyk Lab](http://the_brain.bwh.harvard.edu/index.html), Brigham and Women's Hospital and Harvard Medical School, Jan. 2023 - Jun. 2024
   * Graduate Research Assistant
   * Supervisor: Dr. Martha Bulyk
 
-* May 2023 - Aug. 2023: The Jackson Laboratory
+* [Computational Sciences](https://www.jax.org/research-and-faculty/resources/scientific-research-services/computational-sciences), The Jackson Laboratory, May 2023 - Aug. 2023
   * Research Data Analyst Intern
   * Supervisor: Dr. Yi Li
 
-* Sep. 2022 - May 2023: Harvard Medical School
+* [Gehlenborg Lab](https://hidivelab.org/), Harvard Medical School, Sep. 2022 - May 2023
   * Graduate Research Assistant
   * Supervisor: Dr. Nils Gehlenborg
 
-* Feb. 2021 - Dec. 2022: Carnegie Mellon University
+* [Mohimani Lab](http://mohimanilab.cbd.cmu.edu/), Carnegie Mellon University, Feb. 2021 - Dec. 2022
   * Undergraduate Research Assistant
   * Supervisor: Dr. Hosein Mohimani
   
