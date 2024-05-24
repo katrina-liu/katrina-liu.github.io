@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+------
 * Ph.D. in Computational Biology & Medicine, Tri-institutional Ph.D. Programs, 2024 - 2029 (expected)
   * <small>Joint by Weil Cornell Medical School, Memorial Sloan Kettering Cancer Center, and the Rockefeller University.</small>
 * S.M. in Biomedical Informatics, Harvard Medical School, 2022 - 2024
@@ -18,7 +18,7 @@ Education
   * <small>With University Honors. Minor: Mathematical Sciences, SCS concentration in Computational Biology </small>  
 
 Experience
-======
+------
 * [Bulyk Lab](http://the_brain.bwh.harvard.edu/index.html), Brigham and Women's Hospital and Harvard Medical School, Jan. 2023 - Jun. 2024
   * Graduate Research Assistant
   * Supervisor: Dr. Martha Bulyk
@@ -45,19 +45,19 @@ Experience
 * Skill 3--->
 
 Publications
-======
+------
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+Presentations
+-----
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
-======
+-----
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
