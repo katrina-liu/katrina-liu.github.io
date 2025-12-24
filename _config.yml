@@ -21,7 +21,7 @@ repository               : "katrina-liu/katrina-liu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Liu_Katrina.jpg"
+  avatar           : "KL_profile.png"
   name             : "Xiao (Katrina) Liu/刘潇"
   pronouns         : "She/Her"  
   bio              : "Ph.D. Student"
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "katrina-liu-6980b9235"
+  linkedin         : "xikliu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
